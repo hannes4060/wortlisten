@@ -1,6 +1,9 @@
 # Deutsche Wortlisten für KeePassXC
 [KeePassXC](https://keepassxc.org/) kann neben zufällig gewürfelten Passwörtern auch aus Wortlisten zufällige Passphrasen erzeugen. Diese haben den Vorteil, dass man sie sich deutlich leichter merken kann. Leider hat [KeePassXC](https://github.com/keepassxreboot/keepassxc) nach der Installation nur eine englische Wortliste auf Lager. Für alle, die gerne Deutsche Passphrasen würfeln möchten, hier zwei Listen deutscher Wörter, die man dafür nutzen kann. Einfach nach dem Download der Liste in dem entsprechenden Fenster in KeePassXC zur Passphrasenerzeugungn hinter der englischen Liste auf das Plus-Symbol klicken und die neue Liste auswählen. Schwupps: Schon kann man deutschsprachige Passphrasen erzeugen.
 
+## german_words.geprueft.wordlist
+Empfohlen für Passphrasen, die an Mitarbeitende gehen. Die Liste hat 7.586 Einträge: die bereinigte Shortlist und die bereinigte Kinderliste zusammengeführt (kleingeschrieben, ohne Doppelte). Jedes Wort darin wurde einzeln auf heikle oder zweideutige Bedeutungen geprüft. Mit 5 Wörtern ergeben sich rund 64 Bit Entropie.
+
 ## german_words.wordlist
 Diese Liste hat 336.898 Einträge und wurde u.a. aus folgenden Quellen erstellt:
 - https://github.com/enz/german-wordlist
